@@ -1,0 +1,12 @@
+Package: townjump
+Version: 0.1.20-r1
+Section: net
+Architecture: mipsel-3.4
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/townjump
+Installed-Size: 7210768
+Filename: townjump_0.1.20-r1_mipsel-3.4.ipk
+Size: 3036256
+SHA256sum: 52d4c7f447ee7f56521a4bd43fe9e302da21ce58e36e3e14e71bf808e1e658b2
+Description: Single-binary Rust port of Holesail: share a local port over a peer-to-peer tunnel, reach it anywhere with one key. No server of your own.
